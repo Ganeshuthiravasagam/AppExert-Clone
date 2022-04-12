@@ -21,7 +21,7 @@ const Navbar = () => {
               <button><Link href="https://appexert.com/companies/start-hiring"><a className="block bg-600 rounded md:inline-block text-white hover:bg-700 hover:text-blue-500 px-5 py-1.5">Hire Engineers</a></Link></button>
             </div>      
           </nav>
-          <Script
+          <Script id="my-script"
             dangerouslySetInnerHTML={{
               __html: `document.getElementById("nav").onclick = function navbar() {
                 const menu = document.getElementsByClassName("toggle");
