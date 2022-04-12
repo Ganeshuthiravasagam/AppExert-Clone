@@ -1,3 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Mouser';
+  src: url(./fonts/Mouser.ttf);
+  font-display: swap;
+}
+
 html,
 body {
   padding: 0;
