@@ -10,7 +10,7 @@ export default function Home() {
     </Head>
     <div className="mt-40 ml-10 pt-20 flex flex-col md:flex-row">
       <div>
-        <h1 className="text-dark-blue text-5xl font-Mouser">"Don&apos;t just cruise, sprint with AppExert"</h1>
+        <h1 className="text-dark-blue text-5xl font-Mouser">Don&apos;t just cruise, sprint with AppExert</h1>
         <p className="mt-10 text-xl">
         We enable tech companies to build successful products with our high performing team of managed remote developers.
         </p>
@@ -41,7 +41,7 @@ export default function Home() {
         <p>Who we are?</p>
         <h1 className="text-dark-blue text-2xl font-Mouser">Team of motivated engineers</h1>
         <p className="mt-10">
-        "We&apos;re a team of seasoned hustlers, insanely passionate about solving problems. We're motivated, pre-equipped, and laser-focused in helping you to scale fast with any sort of engineering challenges and workloads."
+        We&apos;re a team of seasoned hustlers, insanely passionate about solving problems. We&apos;re motivated, pre-equipped, and laser-focused in helping you to scale fast with any sort of engineering challenges and workloads.
         </p>
       </div>
       <div>
@@ -54,7 +54,7 @@ export default function Home() {
         <p>How we do?</p>
         <h1 className="text-dark-blue text-2xl font-Mouser">Simple, flexible and straight forward!</h1>
         <p className="mt-10">
-        "Setting and managing remote teams shouldn&apos;t be harder anymore! Our Process is super easy and straight forward."
+        Setting and managing remote teams shouldn&apos;t be harder anymore! Our Process is super easy and straight forward.
         </p>
       </div>
       <div>
